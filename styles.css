@@ -1,0 +1,55 @@
+html{
+	align-content: center;
+}
+	
+body{
+	display: flex;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-style: oblique;
+	background-color:whitesmoke;
+	color: grey;
+	font-size: 19px;
+}
+
+h2{
+	text-decoration: underline;
+	text-align: center;
+}
+div{
+	width: 33%;
+	text-align: center;
+}
+
+img{
+	text-align: center;
+}
+
+p{
+	text-align: left;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+	opacity: 0.7;
+}
+
+.fa-facebook {
+background: #3B5998;
+color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
